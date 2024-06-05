@@ -10,7 +10,7 @@ Use it to make sure you can run mains and unit test in java or kotlin.
 ```shell
 git clone git@github.com:0x26res/coding-exercise-base.git
 cd coding-exercise-base
-gradlew wrapper
+gradle wrapper
 ./gradlew build
 ./gradlew run
 ```
