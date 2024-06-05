@@ -5,13 +5,8 @@ import org.junit.jupiter.api.Test;
 
 class CodingExerciseJavaTest {
 
-    @Test
-    void testAdd() {
-
-        Assertions.assertEquals(CodingExerciseJava.add(1, 2), 2);
-
-
-    }
-
-
+  @Test
+  void testAdd() {
+    Assertions.assertEquals(CodingExerciseJava.add(1, 2), 3);
+  }
 }
